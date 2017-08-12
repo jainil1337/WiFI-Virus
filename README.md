@@ -1,2 +1,5 @@
 # WiFI-Virus
-Show Saved WiFi Password On Victim's Pc
+
+Open Text File
+
+Saved As .txt to .bat 
